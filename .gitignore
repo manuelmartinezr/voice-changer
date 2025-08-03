@@ -1,5 +1,9 @@
 audio/original/*
 audio/output/*
+audio/segments/*
+audio/segments_grouped/*
+!audio/segments/.gitkeep
+!audio/segments_grouped/.gitkeep
 !audio/original/.gitkeep
 !audio/output/.gitkeep
 
